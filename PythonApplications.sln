@@ -9,18 +9,42 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python2", "Python2\Python2.
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python3", "Python3\Python3.pyproj", "{4956F952-7BED-42DE-AE2F-7859A511F0AA}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python4", "Python4\Python4.pyproj", "{2C6C05AE-9B75-4772-AEF3-7321DB5050CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
 		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{8553F68A-0D6E-46F3-8D5E-43D28A5B3A13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8553F68A-0D6E-46F3-8D5E-43D28A5B3A13}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8553F68A-0D6E-46F3-8D5E-43D28A5B3A13}.Debug|x86.ActiveCfg = Debug|Any CPU
 		{8553F68A-0D6E-46F3-8D5E-43D28A5B3A13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8553F68A-0D6E-46F3-8D5E-43D28A5B3A13}.Release|x64.ActiveCfg = Release|Any CPU
+		{8553F68A-0D6E-46F3-8D5E-43D28A5B3A13}.Release|x86.ActiveCfg = Release|Any CPU
 		{C8E222B3-F647-426C-8F39-0DF4DAA01CC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8E222B3-F647-426C-8F39-0DF4DAA01CC6}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C8E222B3-F647-426C-8F39-0DF4DAA01CC6}.Debug|x86.ActiveCfg = Debug|Any CPU
 		{C8E222B3-F647-426C-8F39-0DF4DAA01CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8E222B3-F647-426C-8F39-0DF4DAA01CC6}.Release|x64.ActiveCfg = Release|Any CPU
+		{C8E222B3-F647-426C-8F39-0DF4DAA01CC6}.Release|x86.ActiveCfg = Release|Any CPU
 		{4956F952-7BED-42DE-AE2F-7859A511F0AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4956F952-7BED-42DE-AE2F-7859A511F0AA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4956F952-7BED-42DE-AE2F-7859A511F0AA}.Debug|x86.ActiveCfg = Debug|Any CPU
 		{4956F952-7BED-42DE-AE2F-7859A511F0AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4956F952-7BED-42DE-AE2F-7859A511F0AA}.Release|x64.ActiveCfg = Release|Any CPU
+		{4956F952-7BED-42DE-AE2F-7859A511F0AA}.Release|x86.ActiveCfg = Release|Any CPU
+		{2C6C05AE-9B75-4772-AEF3-7321DB5050CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C6C05AE-9B75-4772-AEF3-7321DB5050CF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2C6C05AE-9B75-4772-AEF3-7321DB5050CF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2C6C05AE-9B75-4772-AEF3-7321DB5050CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C6C05AE-9B75-4772-AEF3-7321DB5050CF}.Release|x64.ActiveCfg = Release|Any CPU
+		{2C6C05AE-9B75-4772-AEF3-7321DB5050CF}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
